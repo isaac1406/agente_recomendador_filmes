@@ -1,0 +1,11 @@
+# Ignorar ambiente virtual
+venv/
+__pycache__/
+
+# Ignorar dados (Datasets são grandes demais para o GitHub)
+data/
+*.csv
+
+# Ignorar configurações de ambiente (Segurança!)
+.env
+.ipynb_checkpoints/
