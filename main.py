@@ -15,7 +15,7 @@ def main():
                 break
                 
             # Invoca o grafo
-            # Referência: "grafo.invoke" [cite: 508]
+            # Referência: "grafo.invoke"
             resultado = app_graph.invoke({"pergunta": user_input})
             
             print(f"Agente: {resultado['resposta_final']}")
