@@ -6,6 +6,6 @@ __pycache__/
 data/
 *.csv
 
-# Ignorar configurações de ambiente (Segurança!)
+# Ignorar configurações de ambiente (Segurança)
 .env
 .ipynb_checkpoints/
