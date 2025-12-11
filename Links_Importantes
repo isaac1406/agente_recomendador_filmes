@@ -1,0 +1,11 @@
+Links Importantes
+
+1. Banco de Dados
+Este é o link para baixar os arquivos ratings.csv e movies.csv que você deve colocar na pasta data/.
+
+🔗 Kaggle (MovieLens Small Latest): https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset
+
+2. Chave de API
+Aqui é onde você gera a chave gratuita para o cérebro do agente (Gemini) funcionar. Você vai colar essa chave no seu arquivo .env.
+
+🔗 Google AI Studio (Get API Key): https://aistudio.google.com/app/apikey
